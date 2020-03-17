@@ -44,4 +44,4 @@ _coming soon_
 
 ### License
 
-MIT
+[MIT](https://github.com/zackshapiro/freestyle-words/blob/master/LICENSE)
