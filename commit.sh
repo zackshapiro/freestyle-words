@@ -1,6 +1,7 @@
 #!/bin/bash
 
-gzip -k words.csv
+# preserve original file with (-k) and force overwrite with (-f)
+gzip -k -f words.csv
 
 git add .
 msg="Updated words: "`date`
